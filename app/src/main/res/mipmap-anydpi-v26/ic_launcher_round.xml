@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/log_in" />
+    <foreground android:drawable="@drawable/log_in" />
+    <monochrome android:drawable="@drawable/log_in" />
+</adaptive-icon>
